@@ -2,27 +2,24 @@
 #Generative AI for Business Intelligence (BI) Analysts Specialization
 
 
-# Generative AI: Elevate Your Business Intelligence Career
+# Generative AI for Business Intelligence (BI) Analysts - Coursera Specialization
 
-This repository contains study notes, assignments, and resources related to the Coursera course [Generative AI: Elevate your Business Intelligence Career](https://www.coursera.org/learn/generative-ai-elevate-your-business-intelligence-career), part of the Generative AI for BI Analysts Specialization by Skill-Up EdTech Team.
+This repository contains notes, assignments, and resources for the complete three-course specialization:
+1. Generative AI Basics for BI Analysts
+2. Prompt Engineering and Data Analysis with Generative AI
+3. BI Applications, Visualization, and Ethics in Generative AI
 
-## Course Overview
+Navigate to each course folder for detailed breakdowns and hands-on labs.
 
-- **Level:** Intermediate (Background in Business Intelligence & AI recommended)
-- **Skills Gained:** Generative AI, Data Visualization, SQL, Prompt Engineering, Data Storytelling, BI Lifecycle, Ethics
-- **Modules Covered:**
-  1. Role of Generative AI in the BI Lifecycle
-  2. Querying Databases, Documents, and Spreadsheets with AI
-  3. Interactive Data Visualization & Reporting
-  4. Ethics, Challenges, and Future Trends in Generative AI for BI
+## Skills Covered
+- Generative AI tools for BI
+- Data cleansing & generation
+- Prompt engineering
+- SQL generation with AI
+- Interactive dashboards & visualization
+- BI ethics, limitations, and future trends
 
-## Structure
-
-- Each module has a dedicated markdown file with summaries, practical tips, and resources.
-- Assignments and labs are provided separately for easier practice.
-- Additional resources and glossary included.
-
----
+Start with the README in each folder!
 
 ## How to Use
 
