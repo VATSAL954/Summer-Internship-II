@@ -1,4 +1,5 @@
 Overview
+
 This course introduces the foundations of Generative AI, focusing on its role and potential in Business Intelligence (BI). It builds an understanding of what generative AI is, how it contrasts with other AI models, and explores various generative AI architectures and their applications in real-world business scenarios.
 
 Key Topics
